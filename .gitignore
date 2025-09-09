@@ -1,0 +1,48 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Packaging
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Tests and coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.cache/
+
+# Logs
+*.log
+sent_questions_log.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Excel temporary/lock files (do NOT ignore your main .xlsx)
+~$*.xlsx
+~$*.xls
+

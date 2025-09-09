@@ -1,0 +1,37 @@
+name: Daily LeetCode Mailer
+
+on:
+  schedule:
+    - cron:  "30 22 * * *"  # Runs daily at 02:30 UTC (adjust to IST if needed)
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  send-questions:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+          TO_EMAILS: ${{ secrets.TO_EMAILS }}
+        run: python daily_questions.py
+
+      - name: Commit updated Excel + Log
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add LeetCode_Roadmap_Questions.xlsx sent_questions_log.txt || true
+          git commit -m "Update solved questions log [skip ci]" || echo "No changes to commit"
+          git push
