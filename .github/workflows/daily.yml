@@ -26,7 +26,7 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           TO_EMAILS: ${{ secrets.TO_EMAILS }}
-        run: python scripts/daily_questions.py
+        run: python scripts/Dailyquestions.py
 
       - name: Commit updated Excel + Log
         run: |
