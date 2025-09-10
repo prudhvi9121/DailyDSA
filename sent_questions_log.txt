@@ -7,3 +7,12 @@
 - Largest Subarray with Sum K (GFG) (Subarray with Given Sum) | https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0
 
 ---
+
+📅 2025-09-10 22:37:51
+- Evaluate Reverse Polish Notation (Queue & Eval) | https://leetcode.com/problems/evaluate-reverse-polish-notation/
+- Clone Graph (Cloning + Alien) | https://leetcode.com/problems/clone-graph/
+- Largest Rectangle in Histogram (Interview-Classics) | https://leetcode.com/problems/largest-rectangle-in-histogram/
+- Longest Palindromic Substring (Strings Two Pointers) | https://leetcode.com/problems/longest-palindromic-substring/
+- Jump Game (Recurrence Basics) | https://leetcode.com/problems/jump-game/
+
+---
