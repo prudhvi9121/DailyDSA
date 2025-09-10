@@ -1,0 +1,9 @@
+
+📅 2025-09-10 07:41:56
+- Two Sum II – Input Array Is Sorted (Searching Pairs) | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+- Diameter of Binary Tree (Tree Properties) | https://leetcode.com/problems/diameter-of-binary-tree/
+- Implement Trie (Prefix Tree) (Trie) | https://leetcode.com/problems/implement-trie-prefix-tree/
+- Alien Dictionary (Cloning + Alien) | https://leetcode.com/problems/alien-dictionary/
+- Largest Subarray with Sum K (GFG) (Subarray with Given Sum) | https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0
+
+---
