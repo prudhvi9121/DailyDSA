@@ -37,7 +37,6 @@ htmlcov/
 
 # Logs
 *.log
-sent_questions_log.txt
 
 # Jupyter
 .ipynb_checkpoints/
