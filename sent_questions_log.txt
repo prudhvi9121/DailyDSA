@@ -34,3 +34,12 @@
 - Maximum of All Subarrays (Sliding Window) | https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k/0
 
 ---
+
+📅 2025-09-13 22:36:10
+- Next Greater Element II (NGE Patterns) | https://leetcode.com/problems/next-greater-element-ii/
+- Binary Tree Inorder Traversal (Trees & BSTs Traversals) | https://leetcode.com/problems/binary-tree-inorder-traversal/
+- Depth-First Search (Graphs Traversals) | https://leetcode.com/problems/depth-first-search/
+- Inorder Successor in BST (Special Topics) | https://leetcode.com/problems/inorder-successor-in-bst/
+- Delete Node in a Linked List (Deletion & Intersection) | https://leetcode.com/problems/delete-node-in-a-linked-list/
+
+---
