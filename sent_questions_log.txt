@@ -43,3 +43,12 @@
 - Delete Node in a Linked List (Deletion & Intersection) | https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 ---
+
+📅 2025-09-14 22:36:59
+- Count Subarrays with Given XOR (GFG) (Prefix Sum / XOR) | https://practice.geeksforgeeks.org/problems/count-subarrays-with-xor-k/1
+- Count and Say (Expression Evaluation) | https://leetcode.com/problems/count-and-say/
+- Binary Tree Maximum Path Sum (Advanced Trees) | https://leetcode.com/problems/binary-tree-maximum-path-sum/
+- Linked List Cycle (Cycle & Palindrome) | https://leetcode.com/problems/linked-list-cycle/
+- Binary Tree to DLL (NEW) (Mix & Test) | https://leetcode.com/problems/binary-tree-to-doubly-linked-list/
+
+---
