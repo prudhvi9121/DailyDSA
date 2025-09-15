@@ -52,3 +52,12 @@
 - Binary Tree to DLL (NEW) (Mix & Test) | https://leetcode.com/problems/binary-tree-to-doubly-linked-list/
 
 ---
+
+📅 2025-09-15 22:37:41
+- Merge k Sorted Lists (Mix & Test) | https://leetcode.com/problems/merge-k-sorted-lists/
+- Subarray Sum Equals K (Prefix Sum / XOR) | https://leetcode.com/problems/subarray-sum-equals-k/
+- Simplify Path (Greedy Stack) | https://leetcode.com/problems/simplify-path/
+- Decode String (Strings Stack + Pattern Matching) | https://leetcode.com/problems/decode-string/
+- LRU Cache (Advanced Pointers) | https://leetcode.com/problems/lru-cache/
+
+---
