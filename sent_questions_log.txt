@@ -61,3 +61,12 @@
 - LRU Cache (Advanced Pointers) | https://leetcode.com/problems/lru-cache/
 
 ---
+
+📅 2025-09-16 22:34:44
+- Linked List Cycle II (Cycle & Palindrome) | https://leetcode.com/problems/linked-list-cycle-ii/
+- Maximum Depth of Binary Tree (Tree Properties) | https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- Longest Repeating Character Replacement (Strings Sliding Window II) | https://leetcode.com/problems/longest-repeating-character-replacement/
+- Binary Search (Binary Search Essentials) | https://leetcode.com/problems/binary-search/
+- Valid Parentheses (Stack Basics) | https://leetcode.com/problems/valid-parentheses/
+
+---
