@@ -70,3 +70,12 @@
 - Valid Parentheses (Stack Basics) | https://leetcode.com/problems/valid-parentheses/
 
 ---
+
+📅 2025-09-17 22:35:55
+- Sliding Window Maximum (Advanced Patterns) | https://leetcode.com/problems/sliding-window-maximum/
+- House Robber & House Robber II (Robbery & Colors) | https://leetcode.com/problems/house-robber/
+- Course Schedule II (Topological Sort) | https://leetcode.com/problems/course-schedule-ii/
+- Valid Palindrome (Strings Basics + Hashing) | https://leetcode.com/problems/valid-palindrome/
+- Trapping Rain Water (Interview-Classics) | https://leetcode.com/problems/trapping-rain-water/
+
+---
