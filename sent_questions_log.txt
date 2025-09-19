@@ -88,3 +88,12 @@
 - Minimum Add to Make Parentheses Valid (Interview-Classics) | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 ---
+
+📅 2025-09-19 22:37:26
+- Reverse Nodes in k-Group (Group Reversal) | https://leetcode.com/problems/reverse-nodes-in-k-group/
+- Breadth-First Search (Graphs Traversals) | https://leetcode.com/problems/breadth-first-search/
+- Target Sum (Subset Sum Target) (Subset & Partition) | https://leetcode.com/problems/target-sum/
+- Populating Next Right Pointers in Each Node (Special Topics) | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+- Basic Calculator II (Expression Evaluation) | https://leetcode.com/problems/basic-calculator-ii/
+
+---
