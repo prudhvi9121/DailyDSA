@@ -97,3 +97,12 @@
 - Basic Calculator II (Expression Evaluation) | https://leetcode.com/problems/basic-calculator-ii/
 
 ---
+
+📅 2025-09-20 22:36:29
+- Word Search (Word Search Variants) | https://leetcode.com/problems/word-search/
+- Rod Cutting Problem (NEW) - Classic DP problem, not on LeetCode (Knapsack) | https://www.geeksforgeeks.org/rod-cutting/
+- Burst Balloons (Advanced) | https://leetcode.com/problems/burst-balloons/
+- Binary Tree Level Order Traversal (Trees & BSTs Traversals) | https://leetcode.com/problems/binary-tree-level-order-traversal/
+- Course Schedule (Topological Sort) | https://leetcode.com/problems/course-schedule/
+
+---
