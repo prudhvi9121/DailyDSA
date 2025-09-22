@@ -115,3 +115,12 @@
 - Group Anagrams (Strings Basics + Hashing) | https://leetcode.com/problems/group-anagrams/
 
 ---
+
+📅 2025-09-22 22:37:49
+- Majority Element (Frequency & Majority) | https://leetcode.com/problems/majority-element/
+- Copy List with Random Pointer (Advanced Pointers) | https://leetcode.com/problems/copy-list-with-random-pointer/
+- Alien Dictionary (Hard Practice) | https://leetcode.com/problems/alien-dictionary/
+- Search a 2D Matrix (Matrix-Based Search) | https://leetcode.com/problems/search-a-2d-matrix/
+- Dijkstra's Algorithm (Shortest Paths) | https://leetcode.com/problems/network-delay-time/
+
+---
