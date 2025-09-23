@@ -124,3 +124,12 @@
 - Dijkstra's Algorithm (Shortest Paths) | https://leetcode.com/problems/network-delay-time/
 
 ---
+
+📅 2025-09-23 22:38:04
+- Find Minimum in Rotated Sorted Array (Rotated Arrays) | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- Binary Tree Paths (Special Topics) | https://leetcode.com/problems/binary-tree-paths/
+- Count Good Nodes in Binary Tree (Serialize + Subtree) | https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+- Surrounded Regions (Advanced BFS/DFS) | https://leetcode.com/problems/surrounded-regions/
+- Validate Binary Search Tree (Tree Properties) | https://leetcode.com/problems/validate-binary-search-tree/
+
+---
