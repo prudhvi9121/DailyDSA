@@ -133,3 +133,12 @@
 - Validate Binary Search Tree (Tree Properties) | https://leetcode.com/problems/validate-binary-search-tree/
 
 ---
+
+📅 2025-09-24 22:35:45
+- Maximum Product Subarray (Subsequences) | https://leetcode.com/problems/maximum-product-subarray/
+- Remove All Adjacent Duplicates In String (Strings Stack + Pattern Matching) | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+- Set Matrix Zeroes (2D Matrix Basics) | https://leetcode.com/problems/set-matrix-zeroes/
+- Remove Nth Node From End of List (Deletion & Intersection) | https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- Review all graph concepts & patterns (Revision) | nan
+
+---
