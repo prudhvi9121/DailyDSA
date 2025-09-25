@@ -142,3 +142,12 @@
 - Review all graph concepts & patterns (Revision) | nan
 
 ---
+
+📅 2025-09-25 22:37:34
+- Add Two Numbers (Arithmetic + Reordering) | https://leetcode.com/problems/add-two-numbers/
+- 3Sum (Triplets & Revision) | https://leetcode.com/problems/3sum/
+- LRU Cache (Design & Greedy) | https://leetcode.com/problems/lru-cache/
+- Max Area of Island (Islands + Components) | https://leetcode.com/problems/max-area-of-island/
+- Valid Palindrome II (Strings Two Pointers) | https://leetcode.com/problems/valid-palindrome-ii/
+
+---
