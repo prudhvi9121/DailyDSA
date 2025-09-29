@@ -178,3 +178,12 @@
 - Best Time to Buy and Sell Stock (Greedy Stock) | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 ---
+
+📅 2025-09-29 22:35:42
+- Binary Tree Right Side View (Trees & BSTs Views) | https://leetcode.com/problems/binary-tree-right-side-view/
+- Super Egg Drop (Egg Dropping Problem) (Advanced) | https://leetcode.com/problems/super-egg-drop/
+- Next Permutation (Tricky Transformations) | https://leetcode.com/problems/next-permutation/
+- Reorder List (Arithmetic + Reordering) | https://leetcode.com/problems/reorder-list/
+- Binary Search Tree Iterator (BST Kth & Iterator) | https://leetcode.com/problems/binary-search-tree-iterator/
+
+---
