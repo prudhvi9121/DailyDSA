@@ -187,3 +187,12 @@
 - Binary Search Tree Iterator (BST Kth & Iterator) | https://leetcode.com/problems/binary-search-tree-iterator/
 
 ---
+
+📅 2025-09-30 22:37:58
+- Contains Duplicate (Core Arrays + Subarrays) | https://leetcode.com/problems/contains-duplicate/
+- Top View of Binary Tree (Trees & BSTs Views) | https://leetcode.com/problems/binary-tree-top-view/
+- Regular Expression Matching (Advanced) | https://leetcode.com/problems/regular-expression-matching/
+- K-th Element of Two Sorted Arrays (K-th & Median) | https://leetcode.com/problems/kth-element-of-two-sorted-arrays/
+- Koko Eating Bananas (Binary Search Advanced) | https://leetcode.com/problems/koko-eating-bananas/
+
+---
