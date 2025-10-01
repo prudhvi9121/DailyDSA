@@ -196,3 +196,12 @@
 - Koko Eating Bananas (Binary Search Advanced) | https://leetcode.com/problems/koko-eating-bananas/
 
 ---
+
+📅 2025-10-01 22:38:00
+- Remove K Digits (Greedy Stack) | https://leetcode.com/problems/remove-k-digits/
+- Boundary Traversal of Binary Tree (Trees & BSTs Views) | https://leetcode.com/problems/boundary-traversal-of-binary-tree/
+- Super Egg Drop (Egg Dropping Problem) (Advanced) | https://leetcode.com/problems/super-egg-drop/
+- Partition Equal Subset Sum (Subset & Partition) | https://leetcode.com/problems/partition-equal-subset-sum/
+- Symmetric Tree (Balance & Mirror) | https://leetcode.com/problems/symmetric-tree/
+
+---
