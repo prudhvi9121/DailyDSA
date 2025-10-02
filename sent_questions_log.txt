@@ -205,3 +205,12 @@
 - Symmetric Tree (Balance & Mirror) | https://leetcode.com/problems/symmetric-tree/
 
 ---
+
+📅 2025-10-02 22:37:20
+- Lowest Common Ancestor of a Binary Search Tree (LCA & Search) | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- Valid Parentheses (Strings Stack + Pattern Matching) | https://leetcode.com/problems/valid-parentheses/
+- Decode String (Greedy Stack) | https://leetcode.com/problems/decode-string/
+- Find All Anagrams in a String (Strings Sliding Window II) | https://leetcode.com/problems/find-all-anagrams-in-a-string/
+- Maximum Product Subarray (Product + Sliding Window) | https://leetcode.com/problems/maximum-product-subarray/
+
+---
