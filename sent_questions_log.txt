@@ -214,3 +214,12 @@
 - Maximum Product Subarray (Product + Sliding Window) | https://leetcode.com/problems/maximum-product-subarray/
 
 ---
+
+📅 2025-10-03 22:36:38
+- Word Ladder (Word Ladder) | https://leetcode.com/problems/word-ladder/
+- Same Tree (Balance & Mirror) | https://leetcode.com/problems/same-tree/
+- Jump Game II (Recurrence Basics) | https://leetcode.com/problems/jump-game-ii/
+- Valid Anagram (Strings Basics + Hashing) | https://leetcode.com/problems/valid-anagram/
+- Palindrome Linked List (Cycle & Palindrome) | https://leetcode.com/problems/palindrome-linked-list/
+
+---
