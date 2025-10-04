@@ -223,3 +223,12 @@
 - Palindrome Linked List (Cycle & Palindrome) | https://leetcode.com/problems/palindrome-linked-list/
 
 ---
+
+📅 2025-10-04 22:36:28
+- First Negative Integer in Every Window (Sliding Window) | https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0
+- Subtree of Another Tree (Serialize + Subtree) | https://leetcode.com/problems/subtree-of-another-tree/
+- Edit Distance (LCS & Edit) | https://leetcode.com/problems/edit-distance/
+- Capacity To Ship Packages Within D Days (Binary Search Advanced) | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+- Implement strStr() (String Building + Greedy) | https://leetcode.com/problems/implement-strstr/
+
+---
