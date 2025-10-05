@@ -232,3 +232,12 @@
 - Implement strStr() (String Building + Greedy) | https://leetcode.com/problems/implement-strstr/
 
 ---
+
+📅 2025-10-05 22:36:52
+- Reverse String (Strings Two Pointers) | https://leetcode.com/problems/reverse-string/
+- Detect Cycle in a Directed Graph (Cycle (Directed)) | https://leetcode.com/problems/detect-cycle-in-a-graph/
+- Smallest Range Covering Elements from K Lists (Bonus Problems) | https://leetcode.com/problems/smallest-range-covering-elements-k-lists/
+- Climbing Stairs (Recurrence Basics) | https://leetcode.com/problems/climbing-stairs/
+- Middle of the Linked List (Linked Lists Basics) | https://leetcode.com/problems/middle-of-the-linked-list/
+
+---
