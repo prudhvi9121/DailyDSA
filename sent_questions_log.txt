@@ -241,3 +241,12 @@
 - Middle of the Linked List (Linked Lists Basics) | https://leetcode.com/problems/middle-of-the-linked-list/
 
 ---
+
+📅 2025-10-06 22:37:26
+- LFU Cache (Design & Greedy) | https://leetcode.com/problems/lfu-cache/
+- Minimum Cost Climbing Stairs (Recurrence Basics) | https://leetcode.com/problems/minimum-cost-climbing-stairs/
+- Implement Stack using Queues (Stack Basics) | https://leetcode.com/problems/implement-stack-using-queues/
+- Longest Palindromic Substring (Subsequences) | https://leetcode.com/problems/longest-palindromic-substring/
+- Longest Substring Without Repeating Characters (Strings Sliding Window I) | https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+---
