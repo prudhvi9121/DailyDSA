@@ -250,3 +250,12 @@
 - Longest Substring Without Repeating Characters (Strings Sliding Window I) | https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ---
+
+📅 2025-10-07 22:37:24
+- Find the Duplicate Number (Floyd's Cycle Detection) (Mix & Test) | https://leetcode.com/problems/find-the-duplicate-number/
+- Flood Fill (Coloring & Flood Fill) | https://leetcode.com/problems/flood-fill/
+- Merge Two Sorted Lists (Linked Lists Basics) | https://leetcode.com/problems/merge-two-sorted-lists/
+- Allocate Minimum Number of Pages (Allocation Problems) | https://www.geeksforgeeks.org/allocate-minimum-number-pages/
+- Balanced Binary Tree (Balance & Mirror) | https://leetcode.com/problems/balanced-binary-tree/
+
+---
