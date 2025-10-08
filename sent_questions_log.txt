@@ -259,3 +259,12 @@
 - Balanced Binary Tree (Balance & Mirror) | https://leetcode.com/problems/balanced-binary-tree/
 
 ---
+
+📅 2025-10-08 22:38:34
+- Longest Subarray with Sum K (GFG) (Subarray with Given Sum) | https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0
+- Two Sum (Searching Pairs) | https://leetcode.com/problems/two-sum/
+- Longest Increasing Path in a Matrix (Matrix/Graph Paths) | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+- Coin Change II (Coin Change) | https://leetcode.com/problems/coin-change-2/
+- Detect Cycle in an Undirected Graph (Cycle (Undirected)) | https://leetcode.com/problems/detect-cycle-in-undirected-graph/
+
+---
