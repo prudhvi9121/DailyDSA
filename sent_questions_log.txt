@@ -268,3 +268,12 @@
 - Detect Cycle in an Undirected Graph (Cycle (Undirected)) | https://leetcode.com/problems/detect-cycle-in-undirected-graph/
 
 ---
+
+📅 2025-10-09 22:37:54
+- Time Based Key-Value Store (binary search variant) (Matrix-Based Search) | https://leetcode.com/problems/time-based-key-value-store/
+- Implement Queue using Stacks (Queue & Eval) | https://leetcode.com/problems/implement-queue-using-stacks/
+- Design Add and Search Words Data Structure (Trie) | https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- Search in Rotated Sorted Array (Rotated Arrays) | https://leetcode.com/problems/search-in-rotated-sorted-array/
+- Coin Change (Coin Change) | https://leetcode.com/problems/coin-change/
+
+---
