@@ -277,3 +277,12 @@
 - Coin Change (Coin Change) | https://leetcode.com/problems/coin-change/
 
 ---
+
+📅 2025-10-10 22:37:38
+- Kth Smallest Element in a BST (BST Kth & Iterator) | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- Rotate List (Arithmetic + Reordering) | https://leetcode.com/problems/rotate-list/
+- Course Schedule (Kahn's Algorithm) (Cycle (Directed)) | https://leetcode.com/problems/course-schedule/
+- Single Element in a Sorted Array (Rotated Arrays) | https://leetcode.com/problems/single-element-in-a-sorted-array/
+- Topological Sorting (Topological Sort) | https://leetcode.com/problems/course-schedule-iii/
+
+---
