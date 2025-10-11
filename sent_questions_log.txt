@@ -286,3 +286,12 @@
 - Topological Sorting (Topological Sort) | https://leetcode.com/problems/course-schedule-iii/
 
 ---
+
+📅 2025-10-11 22:36:38
+- Longest Substring with At Most K Distinct Characters (Strings Sliding Window II) | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+- Permutation in String (Strings Sliding Window I) | https://leetcode.com/problems/permutation-in-string/
+- Longest Consecutive Sequence (Advanced Patterns) | https://leetcode.com/problems/longest-consecutive-sequence/
+- Palindrome Partitioning (Subset & Partition) | https://leetcode.com/problems/palindrome-partitioning/
+- Remove K Digits (String Building + Greedy) | https://leetcode.com/problems/remove-k-digits/
+
+---
