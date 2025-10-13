@@ -304,3 +304,12 @@
 - Minimum Cost to Connect Sticks (Bonus Problems) | https://leetcode.com/problems/minimum-cost-to-connect-sticks/
 
 ---
+
+📅 2025-10-13 22:37:41
+- Stock Span Problem (optional) (NGE Patterns) | https://leetcode.com/problems/stock-span/
+- Word Ladder II (Word Ladder) | https://leetcode.com/problems/word-ladder-ii/
+- Number of Connected Components in an Undirected Graph (Islands + Components) | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+- Binary Tree Preorder Traversal (Trees & BSTs Traversals) | https://leetcode.com/problems/binary-tree-preorder-traversal/
+- Palindrome Partitioning II (Subset & Partition) | https://leetcode.com/problems/palindrome-partitioning-ii/
+
+---
