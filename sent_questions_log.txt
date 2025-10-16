@@ -331,3 +331,12 @@
 - Set Mismatch (Tricky Transformations) | https://leetcode.com/problems/set-mismatch/
 
 ---
+
+📅 2025-10-16 22:36:59
+- Find Median from Data Stream (Streaming & Median) | https://leetcode.com/problems/find-median-from-data-stream/
+- Longest Common Subsequence (LCS & Edit) | https://leetcode.com/problems/longest-common-subsequence/
+- Search Insert Position (Binary Search Essentials) | https://leetcode.com/problems/search-insert-position/
+- Find Pivot Index (Equilibrium Index) (Searching Pairs) | https://leetcode.com/problems/find-pivot-index/
+- Segment Tree Build & Query (Segment Trees) | https://www.geeksforgeeks.org/segment-tree-build-and-query/
+
+---
