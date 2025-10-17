@@ -340,3 +340,12 @@
 - Segment Tree Build & Query (Segment Trees) | https://www.geeksforgeeks.org/segment-tree-build-and-query/
 
 ---
+
+📅 2025-10-17 22:37:53
+- Find Peak Element (Binary Search Essentials) | https://leetcode.com/problems/find-peak-element/
+- Word Search II (Word Search Variants) | https://leetcode.com/problems/word-search-ii/
+- Matrix Median (Matrix-Based Search) | https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix/1
+- Max Consecutive Ones (Greedy Stock) | https://leetcode.com/problems/max-consecutive-ones/
+- Word Break II (NEW) (Path + Decode) | https://leetcode.com/problems/word-break-ii/
+
+---
