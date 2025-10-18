@@ -349,3 +349,12 @@
 - Word Break II (NEW) (Path + Decode) | https://leetcode.com/problems/word-break-ii/
 
 ---
+
+📅 2025-10-18 22:37:16
+- Lowest Common Ancestor of a Binary Tree (LCA & Search) | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+- Serialize and Deserialize Binary Tree (Serialize + Subtree) | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- Aggressive Cows (Allocation Problems) | https://www.geeksforgeeks.org/aggressive-cows-problem/
+- Isomorphic Strings (Strings Basics + Hashing) | https://leetcode.com/problems/isomorphic-strings/
+- LFU Cache (System Design Style) | https://leetcode.com/problems/lfu-cache/
+
+---
