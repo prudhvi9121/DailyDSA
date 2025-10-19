@@ -358,3 +358,12 @@
 - LFU Cache (System Design Style) | https://leetcode.com/problems/lfu-cache/
 
 ---
+
+📅 2025-10-19 22:38:12
+- Decode Ways (Path + Decode) | https://leetcode.com/problems/decode-ways/
+- Next Smaller Element (NGE Patterns) | https://leetcode.com/problems/next-smaller-element/
+- Regular Expression Matching (Advanced) | https://leetcode.com/problems/regular-expression-matching/
+- IPO (Design & Greedy) | https://leetcode.com/problems/ipo/
+- Next Greater Element I (NGE Patterns) | https://leetcode.com/problems/next-greater-element-i/
+
+---
