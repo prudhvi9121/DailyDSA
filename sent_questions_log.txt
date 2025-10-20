@@ -367,3 +367,12 @@
 - Next Greater Element I (NGE Patterns) | https://leetcode.com/problems/next-greater-element-i/
 
 ---
+
+📅 2025-10-20 22:38:40
+- Minimum Number of Days to Make m Bouquets (Binary Search Advanced) | https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+- LFU Cache (optional advanced) (Advanced Pointers) | https://leetcode.com/problems/lfu-cache/
+- Maximum Subarray (Kadane's Algorithm) (Frequency & Majority) | https://leetcode.com/problems/maximum-subarray/
+- Is Graph Bipartite? (Coloring & Flood Fill) | https://leetcode.com/problems/is-graph-bipartite/
+- Ones and Zeroes (0-1 Knapsack) (Knapsack) | https://leetcode.com/problems/ones-and-zeroes/
+
+---
