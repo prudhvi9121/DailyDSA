@@ -376,3 +376,12 @@
 - Ones and Zeroes (0-1 Knapsack) (Knapsack) | https://leetcode.com/problems/ones-and-zeroes/
 
 ---
+
+📅 2025-10-21 22:37:58
+- Burst Balloons (Advanced) | https://leetcode.com/problems/burst-balloons/
+- Minimum Window Substring (Strings Sliding Window I) | https://leetcode.com/problems/minimum-window-substring/
+- Min Stack (Stack Basics) | https://leetcode.com/problems/min-stack/
+- Meeting Rooms II (Bonus Problems) | https://leetcode.com/problems/meeting-rooms-ii/
+- Insert Delete GetRandom O(1) (NEW) (System Design Style) | https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+---
