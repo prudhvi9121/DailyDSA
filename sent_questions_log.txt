@@ -385,3 +385,12 @@
 - Insert Delete GetRandom O(1) (NEW) (System Design Style) | https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 ---
+
+📅 2025-10-22 22:35:13
+- Median of Two Sorted Arrays (K-th & Median) | https://leetcode.com/problems/median-of-two-sorted-arrays/
+- Triangle (Path + Decode) | https://leetcode.com/problems/triangle/
+- M-Coloring Problem (NEW) (Hard Practice) | https://leetcode.com/problems/m-coloring-problem/
+- Invert Binary Tree (Balance & Mirror) | https://leetcode.com/problems/invert-binary-tree/
+- Merge Sorted Arrays Without Extra Space (GFG) (Rotation & Merge) | https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0
+
+---
