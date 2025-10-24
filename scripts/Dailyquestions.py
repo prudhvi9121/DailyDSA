@@ -26,18 +26,18 @@ if "Solved" not in df.columns:
 
 unsolved = df[df["Solved"] != "Yes"]
 
-if len(unsolved) < 5:
+if len(unsolved) < 3:
     selected = unsolved
 else:
-    selected = unsolved.sample(5, random_state=random.randint(1, 10000))
+    selected = unsolved.sample(3, random_state=random.randint(1, 10000))
 
 # === Prepare Email ===
-msg_content = "📌 Today's 5 Random DSA Questions:\n\n"
+msg_content = "📌 Today's 3 Random DSA Questions:\n\n"
 for _, row in selected.iterrows():
     msg_content += f"- {row['Question Name']} ({row['Topic']})\n  {row['Link']}\n\n"
 
 msg = MIMEText(msg_content, "plain", "utf-8")
-msg["Subject"] = "Today's 5 DSA Questions 🚀"
+msg["Subject"] = "Today's 3 DSA Questions 🚀"
 msg["From"] = YOUR_EMAIL
 msg["To"] = ", ".join(TO_EMAILS)
 
