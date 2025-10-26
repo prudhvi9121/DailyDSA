@@ -12,3 +12,10 @@
 - First Negative Integer in Every Window (Sliding Window) | https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0
 
 ---
+
+📅 2025-10-26 22:38:46
+- Lowest Common Ancestor of a Binary Tree (LCA & Search) | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+- LFU Cache (optional advanced) (Advanced Pointers) | https://leetcode.com/problems/lfu-cache/
+- Rod Cutting Problem (NEW) - Classic DP problem, not on LeetCode (Knapsack) | https://www.geeksforgeeks.org/rod-cutting/
+
+---
