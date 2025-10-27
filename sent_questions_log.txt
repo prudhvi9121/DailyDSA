@@ -19,3 +19,10 @@
 - Rod Cutting Problem (NEW) - Classic DP problem, not on LeetCode (Knapsack) | https://www.geeksforgeeks.org/rod-cutting/
 
 ---
+
+📅 2025-10-27 22:39:09
+- LRU Cache (Design & Greedy) | https://leetcode.com/problems/lru-cache/
+- Binary Tree Preorder Traversal (Trees & BSTs Traversals) | https://leetcode.com/problems/binary-tree-preorder-traversal/
+- Multiply Strings (String Building + Greedy) | https://leetcode.com/problems/multiply-strings/
+
+---
