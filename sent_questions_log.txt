@@ -26,3 +26,10 @@
 - Multiply Strings (String Building + Greedy) | https://leetcode.com/problems/multiply-strings/
 
 ---
+
+📅 2025-10-28 22:40:19
+- Construct Binary Tree from Preorder and Inorder Traversal (Construction) | https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- LRU Cache (System Design Style) | https://leetcode.com/problems/lru-cache/
+- Remove K Digits (String Building + Greedy) | https://leetcode.com/problems/remove-k-digits/
+
+---
