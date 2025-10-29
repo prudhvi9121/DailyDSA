@@ -33,3 +33,10 @@
 - Remove K Digits (String Building + Greedy) | https://leetcode.com/problems/remove-k-digits/
 
 ---
+
+📅 2025-10-29 22:40:37
+- Valid Parentheses (Strings Stack + Pattern Matching) | https://leetcode.com/problems/valid-parentheses/
+- Kth Smallest Element in a BST (BST Kth & Iterator) | https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- M-Coloring Problem (NEW) (Hard Practice) | https://leetcode.com/problems/m-coloring-problem/
+
+---
