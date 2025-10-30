@@ -40,3 +40,10 @@
 - M-Coloring Problem (NEW) (Hard Practice) | https://leetcode.com/problems/m-coloring-problem/
 
 ---
+
+📅 2025-10-30 22:38:20
+- Validate Binary Search Tree (Tree Properties) | https://leetcode.com/problems/validate-binary-search-tree/
+- Number of Islands (Islands + Components) | https://leetcode.com/problems/number-of-islands/
+- Regular Expression Matching (Advanced) | https://leetcode.com/problems/regular-expression-matching/
+
+---
