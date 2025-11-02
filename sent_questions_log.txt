@@ -61,3 +61,10 @@
 - Longest Increasing Path in a Matrix (Matrix/Graph Paths) | https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 
 ---
+
+📅 2025-11-02 22:37:53
+- Next Permutation (Tricky Transformations) | https://leetcode.com/problems/next-permutation/
+- Trapping Rain Water (Interview-Classics) | https://leetcode.com/problems/trapping-rain-water/
+- Reverse Words in a String (Strings Two Pointers) | https://leetcode.com/problems/reverse-words-in-a-string/
+
+---
