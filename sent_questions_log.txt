@@ -75,3 +75,10 @@
 - Add Two Numbers (Arithmetic + Reordering) | https://leetcode.com/problems/add-two-numbers/
 
 ---
+
+📅 2025-11-04 22:40:36
+- Palindrome Partitioning (Subset & Partition) | https://leetcode.com/problems/palindrome-partitioning/
+- Next Greater Element II (NGE Patterns) | https://leetcode.com/problems/next-greater-element-ii/
+- Intersection of Two Linked Lists (Deletion & Intersection) | https://leetcode.com/problems/intersection-of-two-linked-lists/
+
+---
