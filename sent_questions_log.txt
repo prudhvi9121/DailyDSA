@@ -89,3 +89,10 @@
 - Binary Tree Zigzag Level Order Traversal (Trees & BSTs Traversals) | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 
 ---
+
+📅 2025-11-06 22:40:27
+- Pacific Atlantic Water Flow (Advanced BFS/DFS) | https://leetcode.com/problems/pacific-atlantic-water-flow/
+- Next Greater Element I (NGE Patterns) | https://leetcode.com/problems/next-greater-element-i/
+- Word Search II (Word Search Variants) | https://leetcode.com/problems/word-search-ii/
+
+---
