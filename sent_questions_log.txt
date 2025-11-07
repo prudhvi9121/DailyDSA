@@ -96,3 +96,10 @@
 - Word Search II (Word Search Variants) | https://leetcode.com/problems/word-search-ii/
 
 ---
+
+📅 2025-11-07 22:39:04
+- Longest Palindromic Substring (Subsequences) | https://leetcode.com/problems/longest-palindromic-substring/
+- Simplify Path (Greedy Stack) | https://leetcode.com/problems/simplify-path/
+- Linked List Cycle (Cycle & Palindrome) | https://leetcode.com/problems/linked-list-cycle/
+
+---
