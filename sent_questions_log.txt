@@ -103,3 +103,10 @@
 - Linked List Cycle (Cycle & Palindrome) | https://leetcode.com/problems/linked-list-cycle/
 
 ---
+
+📅 2025-11-08 22:37:41
+- Design Add and Search Words Data Structure (Trie) | https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- Find the Duplicate Number (Floyd's Cycle Detection) (Mix & Test) | https://leetcode.com/problems/find-the-duplicate-number/
+- Valid Anagram (Strings Basics + Hashing) | https://leetcode.com/problems/valid-anagram/
+
+---
