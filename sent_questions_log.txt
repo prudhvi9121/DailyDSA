@@ -110,3 +110,10 @@
 - Valid Anagram (Strings Basics + Hashing) | https://leetcode.com/problems/valid-anagram/
 
 ---
+
+📅 2025-11-09 22:38:27
+- Number of Connected Components in an Undirected Graph (Islands + Components) | https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+- Next Smaller Element (NGE Patterns) | https://leetcode.com/problems/next-smaller-element/
+- Insert Delete GetRandom O(1) (NEW) (System Design Style) | https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+---
