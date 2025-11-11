@@ -124,3 +124,10 @@
 - Partition Equal Subset Sum (Subset & Partition) | https://leetcode.com/problems/partition-equal-subset-sum/
 
 ---
+
+📅 2025-11-11 22:40:04
+- Maximum Depth of Binary Tree (Tree Properties) | https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- Detect Cycle in an Undirected Graph (Cycle (Undirected)) | https://leetcode.com/problems/detect-cycle-in-undirected-graph/
+- Matrix Median (Matrix-Based Search) | https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix/1
+
+---
