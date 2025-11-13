@@ -138,3 +138,10 @@
 - Valid Palindrome II (Strings Two Pointers) | https://leetcode.com/problems/valid-palindrome-ii/
 
 ---
+
+📅 2025-11-13 22:40:29
+- Jump Game II (Recurrence Basics) | https://leetcode.com/problems/jump-game-ii/
+- Count Good Nodes in Binary Tree (Serialize + Subtree) | https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+- Serialize and Deserialize Binary Tree (Serialize + Subtree) | https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+---
