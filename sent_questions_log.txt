@@ -159,3 +159,10 @@
 - House Robber & House Robber II (Robbery & Colors) | https://leetcode.com/problems/house-robber/
 
 ---
+
+📅 2025-11-16 22:38:48
+- Implement Trie (Prefix Tree) (Trie) | https://leetcode.com/problems/implement-trie-prefix-tree/
+- Search in a Binary Search Tree (LCA & Search) | https://leetcode.com/problems/search-in-a-binary-search-tree/
+- Regular Expression Matching (Advanced) | https://leetcode.com/problems/regular-expression-matching/
+
+---
