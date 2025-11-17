@@ -166,3 +166,10 @@
 - Regular Expression Matching (Advanced) | https://leetcode.com/problems/regular-expression-matching/
 
 ---
+
+📅 2025-11-17 22:41:01
+- Segment Tree Build & Query (Segment Trees) | https://www.geeksforgeeks.org/segment-tree-build-and-query/
+- Populating Next Right Pointers in Each Node (Special Topics) | https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+- Contains Duplicate (Core Arrays + Subarrays) | https://leetcode.com/problems/contains-duplicate/
+
+---
