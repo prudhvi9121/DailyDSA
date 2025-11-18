@@ -173,3 +173,10 @@
 - Contains Duplicate (Core Arrays + Subarrays) | https://leetcode.com/problems/contains-duplicate/
 
 ---
+
+📅 2025-11-18 22:40:47
+- Book Allocation Problem (Allocation Problems) | https://www.geeksforgeeks.org/book-allocation-problem/
+- Search a 2D Matrix (Matrix-Based Search) | https://leetcode.com/problems/search-a-2d-matrix/
+- Coin Change (Coin Change) | https://leetcode.com/problems/coin-change/
+
+---
