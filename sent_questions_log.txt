@@ -187,3 +187,10 @@
 - Word Break II (NEW) (Path + Decode) | https://leetcode.com/problems/word-break-ii/
 
 ---
+
+📅 2025-11-20 22:38:09
+- Palindromic Substrings (Subsequences) | https://leetcode.com/problems/palindromic-substrings/
+- Max Consecutive Ones (Greedy Stock) | https://leetcode.com/problems/max-consecutive-ones/
+- Spiral Matrix (2D Matrix Basics) | https://leetcode.com/problems/spiral-matrix/
+
+---
