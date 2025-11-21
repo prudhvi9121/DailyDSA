@@ -194,3 +194,10 @@
 - Spiral Matrix (2D Matrix Basics) | https://leetcode.com/problems/spiral-matrix/
 
 ---
+
+📅 2025-11-21 22:40:05
+- Longest Subarray with Sum K (GFG) (Subarray with Given Sum) | https://practice.geeksforgeeks.org/problems/longest-sub-array-with-sum-k/0
+- Reverse String (Strings Two Pointers) | https://leetcode.com/problems/reverse-string/
+- Capacity To Ship Packages Within D Days (Binary Search Advanced) | https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+
+---
