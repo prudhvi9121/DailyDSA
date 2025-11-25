@@ -222,3 +222,10 @@
 - Balanced Binary Tree (Balance & Mirror) | https://leetcode.com/problems/balanced-binary-tree/
 
 ---
+
+📅 2025-11-25 22:41:08
+- Remove Duplicates from Sorted Array (Core Arrays + Subarrays) | https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- Find the Duplicate Number (Core Arrays + Subarrays) | https://leetcode.com/problems/find-the-duplicate-number/
+- Longest Substring Without Repeating Characters (Strings Sliding Window I) | https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+---
