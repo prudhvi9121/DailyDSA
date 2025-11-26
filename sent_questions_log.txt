@@ -229,3 +229,10 @@
 - Longest Substring Without Repeating Characters (Strings Sliding Window I) | https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ---
+
+📅 2025-11-26 22:40:02
+- Allocate Minimum Number of Pages (Allocation Problems) | https://www.geeksforgeeks.org/allocate-minimum-number-pages/
+- Kth Largest Element in a Stream (BST Kth & Iterator) | https://leetcode.com/problems/kth-largest-element-in-a-stream/
+- Super Egg Drop (Egg Dropping Problem) (Advanced) | https://leetcode.com/problems/super-egg-drop/
+
+---
