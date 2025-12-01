@@ -264,3 +264,10 @@
 - Rotate List (Arithmetic + Reordering) | https://leetcode.com/problems/rotate-list/
 
 ---
+
+📅 2025-12-01 22:41:18
+- Word Search (Word Search Variants) | https://leetcode.com/problems/word-search/
+- Valid Parentheses (Stack Basics) | https://leetcode.com/problems/valid-parentheses/
+- Reverse Nodes in k-Group (Group Reversal) | https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+---
