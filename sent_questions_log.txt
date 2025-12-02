@@ -271,3 +271,10 @@
 - Reverse Nodes in k-Group (Group Reversal) | https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 ---
+
+📅 2025-12-02 22:39:43
+- Minimum Path Sum (Grid Problems) | https://leetcode.com/problems/minimum-path-sum/
+- Stock Span Problem (optional) (NGE Patterns) | https://leetcode.com/problems/stock-span/
+- Review all graph concepts & patterns (Revision) | nan
+
+---
