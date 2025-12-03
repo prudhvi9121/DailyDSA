@@ -278,3 +278,10 @@
 - Review all graph concepts & patterns (Revision) | nan
 
 ---
+
+📅 2025-12-03 22:42:33
+- Reverse Linked List (Linked Lists Basics) | https://leetcode.com/problems/reverse-linked-list/
+- Search Insert Position (Binary Search Essentials) | https://leetcode.com/problems/search-insert-position/
+- Subarray Sum Equals K (Prefix Sum / XOR) | https://leetcode.com/problems/subarray-sum-equals-k/
+
+---
