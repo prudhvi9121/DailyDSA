@@ -313,3 +313,10 @@
 - Binary Tree to DLL (NEW) (Mix & Test) | https://leetcode.com/problems/binary-tree-to-doubly-linked-list/
 
 ---
+
+📅 2025-12-08 22:42:03
+- Smallest Range Covering Elements from K Lists (Bonus Problems) | https://leetcode.com/problems/smallest-range-covering-elements-k-lists/
+- Longest Consecutive Sequence (Advanced Patterns) | https://leetcode.com/problems/longest-consecutive-sequence/
+- Implement Stack using Queues (Stack Basics) | https://leetcode.com/problems/implement-stack-using-queues/
+
+---
