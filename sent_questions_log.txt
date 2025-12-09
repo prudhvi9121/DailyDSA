@@ -320,3 +320,10 @@
 - Implement Stack using Queues (Stack Basics) | https://leetcode.com/problems/implement-stack-using-queues/
 
 ---
+
+📅 2025-12-09 22:39:31
+- Alien Dictionary (Hard Practice) | https://leetcode.com/problems/alien-dictionary/
+- Remove K Digits (Greedy Stack) | https://leetcode.com/problems/remove-k-digits/
+- Longest Substring with At Most K Distinct Characters (Strings Sliding Window II) | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+
+---
