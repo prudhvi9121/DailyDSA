@@ -327,3 +327,10 @@
 - Longest Substring with At Most K Distinct Characters (Strings Sliding Window II) | https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 
 ---
+
+📅 2025-12-10 22:43:16
+- Paint House (Robbery & Colors) | https://leetcode.com/problems/paint-house/
+- Largest Rectangle in Histogram (Interview-Classics) | https://leetcode.com/problems/largest-rectangle-in-histogram/
+- IPO (Design & Greedy) | https://leetcode.com/problems/ipo/
+
+---
