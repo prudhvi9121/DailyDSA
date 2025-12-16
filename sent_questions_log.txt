@@ -369,3 +369,10 @@
 - Implement strStr() (String Building + Greedy) | https://leetcode.com/problems/implement-strstr/
 
 ---
+
+📅 2025-12-16 22:41:51
+- Target Sum (Subset Sum Target) (Subset & Partition) | https://leetcode.com/problems/target-sum/
+- Reorder List (Arithmetic + Reordering) | https://leetcode.com/problems/reorder-list/
+- Same Tree (Balance & Mirror) | https://leetcode.com/problems/same-tree/
+
+---
