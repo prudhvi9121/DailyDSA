@@ -376,3 +376,10 @@
 - Same Tree (Balance & Mirror) | https://leetcode.com/problems/same-tree/
 
 ---
+
+📅 2025-12-17 22:43:23
+- Set Matrix Zeroes (2D Matrix Basics) | https://leetcode.com/problems/set-matrix-zeroes/
+- Binary Search Tree Iterator (BST Kth & Iterator) | https://leetcode.com/problems/binary-search-tree-iterator/
+- Decode String (Greedy Stack) | https://leetcode.com/problems/decode-string/
+
+---
