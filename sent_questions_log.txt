@@ -383,3 +383,10 @@
 - Decode String (Greedy Stack) | https://leetcode.com/problems/decode-string/
 
 ---
+
+📅 2025-12-18 22:42:44
+- Jump Game (Recurrence Basics) | https://leetcode.com/problems/jump-game/
+- Meeting Rooms II (Bonus Problems) | https://leetcode.com/problems/meeting-rooms-ii/
+- Koko Eating Bananas (Binary Search Advanced) | https://leetcode.com/problems/koko-eating-bananas/
+
+---
