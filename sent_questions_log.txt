@@ -390,3 +390,10 @@
 - Koko Eating Bananas (Binary Search Advanced) | https://leetcode.com/problems/koko-eating-bananas/
 
 ---
+
+📅 2025-12-19 22:42:17
+- Min Stack (Stack Basics) | https://leetcode.com/problems/min-stack/
+- Remove All Adjacent Duplicates In String (Strings Stack + Pattern Matching) | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+- Word Ladder (Word Ladder) | https://leetcode.com/problems/word-ladder/
+
+---
