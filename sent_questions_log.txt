@@ -397,3 +397,10 @@
 - Word Ladder (Word Ladder) | https://leetcode.com/problems/word-ladder/
 
 ---
+
+📅 2025-12-20 22:39:39
+- Find Pivot Index (Equilibrium Index) (Searching Pairs) | https://leetcode.com/problems/find-pivot-index/
+- Maximum Product Subarray (Product + Sliding Window) | https://leetcode.com/problems/maximum-product-subarray/
+- Palindrome Linked List (Cycle & Palindrome) | https://leetcode.com/problems/palindrome-linked-list/
+
+---
