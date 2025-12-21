@@ -404,3 +404,10 @@
 - Palindrome Linked List (Cycle & Palindrome) | https://leetcode.com/problems/palindrome-linked-list/
 
 ---
+
+📅 2025-12-21 22:41:13
+- Lowest Common Ancestor of a Binary Search Tree (LCA & Search) | https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+- Maximum Subarray (Kadane's Algorithm) (Frequency & Majority) | https://leetcode.com/problems/maximum-subarray/
+- Clone Graph (Cloning + Alien) | https://leetcode.com/problems/clone-graph/
+
+---
