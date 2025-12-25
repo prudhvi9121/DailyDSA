@@ -432,3 +432,10 @@
 - Find Median from Data Stream (Streaming & Median) | https://leetcode.com/problems/find-median-from-data-stream/
 
 ---
+
+📅 2025-12-25 22:42:11
+- Set Mismatch (Tricky Transformations) | https://leetcode.com/problems/set-mismatch/
+- Detect Cycle in a Directed Graph (Cycle (Directed)) | https://leetcode.com/problems/detect-cycle-in-a-graph/
+- Flood Fill (Coloring & Flood Fill) | https://leetcode.com/problems/flood-fill/
+
+---
