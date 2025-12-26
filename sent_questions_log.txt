@@ -439,3 +439,10 @@
 - Flood Fill (Coloring & Flood Fill) | https://leetcode.com/problems/flood-fill/
 
 ---
+
+📅 2025-12-26 22:42:30
+- Minimum Number of Days to Make m Bouquets (Binary Search Advanced) | https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+- Coin Change II (Coin Change) | https://leetcode.com/problems/coin-change-2/
+- Linked List Cycle II (Cycle & Palindrome) | https://leetcode.com/problems/linked-list-cycle-ii/
+
+---
