@@ -446,3 +446,10 @@
 - Linked List Cycle II (Cycle & Palindrome) | https://leetcode.com/problems/linked-list-cycle-ii/
 
 ---
+
+📅 2025-12-27 22:41:21
+- Binary Tree Paths (Special Topics) | https://leetcode.com/problems/binary-tree-paths/
+- Burst Balloons (Advanced) | https://leetcode.com/problems/burst-balloons/
+- Course Schedule (Kahn's Algorithm) (Cycle (Directed)) | https://leetcode.com/problems/course-schedule/
+
+---
