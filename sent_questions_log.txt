@@ -460,3 +460,10 @@
 - Nth Root of an Integer (K-th & Median) | https://leetcode.com/problems/nth-root-of-an-integer/
 
 ---
+
+📅 2025-12-29 22:42:18
+- LFU Cache (System Design Style) | https://leetcode.com/problems/lfu-cache/
+- Left View of Binary Tree (Trees & BSTs Views) | https://leetcode.com/problems/binary-tree-left-side-view/
+- Merge Intervals (NEW) (K-th & Median) | https://leetcode.com/problems/merge-intervals/
+
+---
