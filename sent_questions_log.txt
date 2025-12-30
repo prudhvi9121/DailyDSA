@@ -467,3 +467,10 @@
 - Merge Intervals (NEW) (K-th & Median) | https://leetcode.com/problems/merge-intervals/
 
 ---
+
+📅 2025-12-30 22:42:29
+- LFU Cache (Design & Greedy) | https://leetcode.com/problems/lfu-cache/
+- Isomorphic Strings (Strings Basics + Hashing) | https://leetcode.com/problems/isomorphic-strings/
+- Super Egg Drop (Egg Dropping Problem) (Advanced) | https://leetcode.com/problems/super-egg-drop/
+
+---
