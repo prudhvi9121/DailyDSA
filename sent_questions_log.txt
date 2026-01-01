@@ -481,3 +481,10 @@
 - Aggressive Cows (Allocation Problems) | https://www.geeksforgeeks.org/aggressive-cows-problem/
 
 ---
+
+📅 2026-01-01 22:42:56
+- Single Element in a Sorted Array (Rotated Arrays) | https://leetcode.com/problems/single-element-in-a-sorted-array/
+- Find Minimum in Rotated Sorted Array (Rotated Arrays) | https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- LRU Cache (Advanced Pointers) | https://leetcode.com/problems/lru-cache/
+
+---
