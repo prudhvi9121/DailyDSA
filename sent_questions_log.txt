@@ -488,3 +488,10 @@
 - LRU Cache (Advanced Pointers) | https://leetcode.com/problems/lru-cache/
 
 ---
+
+📅 2026-01-02 22:43:32
+- 3Sum (Triplets & Revision) | https://leetcode.com/problems/3sum/
+- Sliding Window Maximum (Advanced Patterns) | https://leetcode.com/problems/sliding-window-maximum/
+- Best Time to Buy and Sell Stock (Greedy Stock) | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+---
