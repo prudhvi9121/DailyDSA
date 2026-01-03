@@ -495,3 +495,10 @@
 - Best Time to Buy and Sell Stock (Greedy Stock) | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 ---
+
+📅 2026-01-03 22:42:02
+- Merge Two Sorted Lists (Linked Lists Basics) | https://leetcode.com/problems/merge-two-sorted-lists/
+- Binary Tree Zigzag Level Order Traversal (Trees & BSTs Views) | https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+- Sort Colors (Dutch National Flag) (Tricky Transformations) | https://leetcode.com/problems/sort-colors/
+
+---
