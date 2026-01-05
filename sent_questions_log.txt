@@ -509,3 +509,9 @@
 - Longest Palindromic Substring (Strings Two Pointers) | https://leetcode.com/problems/longest-palindromic-substring/
 
 ---
+
+📅 2026-01-05 22:44:52
+- Find Peak Element (Binary Search Essentials) | https://leetcode.com/problems/find-peak-element/
+- Symmetric Tree (Balance & Mirror) | https://leetcode.com/problems/symmetric-tree/
+
+---
